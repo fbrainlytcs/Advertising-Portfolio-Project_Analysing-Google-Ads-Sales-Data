@@ -31,7 +31,7 @@ The keyword analysis reveals a strong focus on high-intent educational queries:<
    2.	"_learn data analytics_": Highest total revenue driver ($608k).
    3.	"_data anaytics training_": Exceptional efficiency with over 2,400 conversions.
    
-## Data Integrity & Analytical Rigor<br>
+## Note on Dataset<br>
 The raw data contained significant noise, including four variations of campaign names and multiple geographical misspellings (e.g., "Hydrebad"). By consolidating these into a single "Data Analytics Course" campaign, it is discovered that the performance is much more centralized and stable than fragmented reporting would suggest.
 
 ## Strategic Recommendations for Long-term Sustainability<br>
