@@ -27,7 +27,7 @@ The keyword analysis reveals a strong focus on high-intent educational queries:<
    3.	"_data anaytics training_": Exceptional efficiency with over 2,400 conversions.
    
 __3. Data Integrity & Analytical Rigor__<br>
-The raw data contained significant noise, including four variations of campaign names and multiple geographical misspellings (e.g., "Hydrebad"). By consolidating these into a single "Data Analytics Course" campaign, we discovered that the performance is much more centralized and stable than fragmented reporting would suggest.
+The raw data contained significant noise, including four variations of campaign names and multiple geographical misspellings (e.g., "Hydrebad"). By consolidating these into a single "Data Analytics Course" campaign, it is discovered that the performance is much more centralized and stable than fragmented reporting would suggest.
 
 __4. Strategic Recommendations for Long-term Sustainability__<br>
 Based on the 6.98x ROAS, the following three-pillar strategy are proposed for the upcoming fiscal year:
