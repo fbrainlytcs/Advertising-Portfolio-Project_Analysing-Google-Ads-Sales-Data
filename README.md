@@ -18,7 +18,7 @@ __2. Strategic Insights by Segment__<br>
 <ins>A. Device Performance: The Cross-Platform Advantage</ins><br>
 One of the most striking findings is the stability of the performance across all user platforms. While many companies see a "Mobile-only" or "Desktop-only" success, the revenue is evenly distributed:<br>
 •	_Desktop_: Leads with a 7.00x ROAS and the lowest CPA ($32.67). This remains our highest-intent platform.<br>
-•	_Tablet & Mobile_: Following closely at 6.98x and 6.94x respectively.<br>
+•	_Tablet & Mobile_: Following closely at 6.98x and 6.94x respectively.<br><br>
    Note: _This suggests the landing pages and checkout processes are excellently optimized for all screen sizes, providing a resilient foundation for scaling_.<br><br>
 <ins>B. Keyword Efficiency: Revenue Drivers</ins><br>
 The keyword analysis reveals a strong focus on high-intent educational queries:<br>
